@@ -11,7 +11,8 @@ Aspiring Front-End Developer.
 ### :books: What I'm doing...
 
 - Responsive Web Design Certification @ [FreeCodeCamp](https://www.freecodecamp.org/)
-- Bootcamp Web Developer @ [Digital Innovation One Inc.](https://dio.me/)
+- HTML For Everyone: Real World Coding in HTML5 course @ [Udemy](https://www.udemy.com/course/html-for-everyone-real-world-coding-in-html/)
+- Learn HTML and CSS @ [Scrimba](https://scrimba.com/learn/htmlandcss/)
 
 <hr>
 
