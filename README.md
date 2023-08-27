@@ -11,9 +11,8 @@ Aspiring Front-End Developer.
 ### :books: What I'm doing...
 
 - Responsive Web Design Certification @ [FreeCodeCamp](https://www.freecodecamp.org/)
-- HTML For Everyone: Real World Coding in HTML5 course @ [Udemy](https://www.udemy.com/course/html-for-everyone-real-world-coding-in-html/)
 - Learn HTML and CSS @ [Scrimba](https://scrimba.com/learn/htmlandcss/)
-
+- Javascript Essentials @ [Udemy](https://www.udemy.com/course/javascript-essentials/)
 <hr>
 
 :writing_hand: Sharing my journey on [Twitter](https://twitter.com/iAm_Caroly).
