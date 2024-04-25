@@ -15,4 +15,4 @@ Aspiring Front-End Developer.
 - Javascript Essentials @ [Udemy](https://www.udemy.com/course/javascript-essentials/)
 <hr>
 
-:writing_hand: Sharing my journey on [Twitter](https://twitter.com/iAm_Caroly).
+:writing_hand: Sharing my journey on [Twitter](https://twitter.com/iAm_Caroly212).
