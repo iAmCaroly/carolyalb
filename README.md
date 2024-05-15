@@ -1,10 +1,9 @@
-# Hi, I'm Caroly!👋
-
+# Hi👋, I'm Caroly!
 
 ## 🚀 About Me
 💻Aspiring Front-End Developer
-:seedling: A newbie starting my coding journey
-:writing_hand: Sharing my journey on [X [Twitter]](https://twitter.com/iAm_Caroly212).
+🌱A newbie starting my coding journey
+✍️Sharing my journey on [X [Twitter]](https://twitter.com/iAm_Caroly212).
 
 ## ✨Let's connect!
 
@@ -20,14 +19,14 @@
 
 <hr>
 
-## 📚Skills
+## :books: Skills
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
 
-## 🛠️Tools :hammer_and_wrench: 
+## 🛠️Tools
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 📊Github Status
