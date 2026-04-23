@@ -1,8 +1,11 @@
 # Hi👋, I'm Caroly!
 
 ## 🚀 About Me
+
 💻Aspiring Front-End Developer
+
 🌱A newbie starting my coding journey
+
 ✍️Sharing my journey on [X [Twitter]](https://twitter.com/iAm_Caroly212).
 
 ## ✨Let's connect!
