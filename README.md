@@ -1,14 +1,14 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&fontColor=1D97611C"/>
   
-  <img width="400" src="https://readme-typing-svg.herokuapp.com?font=Italianno&weight=600&size=30&duration=5000&color=674ea7&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Caroly;Front+End+Dev+👩‍💻;🌐+Let's+Connect!"/>
+  <img width="400" src="https://readme-typing-svg.herokuapp.com?font=Italianno&weight=600&size=30&duration=5000&color=A78191FF&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Caroly;Front+End+Dev+👩‍💻;🌐+Let's+Connect!"/>
 
   <div>
     <a href="https://x.com/iAm_Caroly212" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-674ea7?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
+      <img src="https://img.shields.io/badge/Twitter-A78191FF?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
     </a>
     <a href="https://github.com/iAmCaroly" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-674ea7?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
+      <img src="https://img.shields.io/badge/Portfolio-A78191FF?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
     </a>
   </div>
 </div>
