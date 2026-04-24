@@ -12,15 +12,13 @@
 
 ✍️Sharing my journey on [X [Twitter]](https://twitter.com/iAm_Caroly212).
 
-
-
+<br/>
 ## :books: What I'm doing...
 
 - Responsive Web Design Certification @ [FreeCodeCamp](https://www.freecodecamp.org/)
 - HTML For Everyone: Real World Coding in HTML5 course @ [Udemy](https://www.udemy.com/course/html-for-everyone-real-world-coding-in-html/)
 
-
-<hr>
+<br/>
 
 <table>
 <tr>
@@ -40,7 +38,7 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+<hr>
 ## 📊Github Status
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iAmCaroly&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true&hide-stars)
 
