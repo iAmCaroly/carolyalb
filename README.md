@@ -3,6 +3,14 @@
   
   <img width="400" src="https://readme-typing-svg.herokuapp.com?font=Italianno&weight=600&size=30&duration=5000&color=A78191FF&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Caroly;Front+End+Dev+👩‍💻;🌐+Let's+Connect!"/>
 
+## 🚀 About Me
+
+💻Aspiring Front-End Developer
+
+🌱A newbie starting my coding journey
+
+✍️Sharing my journey on [X [Twitter]](https://twitter.com/iAm_Caroly212).
+
   <div>
     <a href="https://x.com/iAm_Caroly212" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
@@ -12,15 +20,6 @@
     </a>
   </div>
 </div>
-
-
-## 🚀 About Me
-
-💻Aspiring Front-End Developer
-
-🌱A newbie starting my coding journey
-
-✍️Sharing my journey on [X [Twitter]](https://twitter.com/iAm_Caroly212).
 
 <br/>
 
