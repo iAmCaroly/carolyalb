@@ -13,11 +13,12 @@
 ✍️Sharing my journey on [X [Twitter]](https://twitter.com/iAm_Caroly212).
 
 
+
 ## :books: What I'm doing...
 
 - Responsive Web Design Certification @ [FreeCodeCamp](https://www.freecodecamp.org/)
 - HTML For Everyone: Real World Coding in HTML5 course @ [Udemy](https://www.udemy.com/course/html-for-everyone-real-world-coding-in-html/)
-- Learn HTML and CSS @ [Scrimba](https://scrimba.com/learn/htmlandcss/)
+
 
 <hr>
 
@@ -28,7 +29,7 @@
 </tr>
 <tr>
     <td><img src="https://skillicons.dev/icons?i=html,css,js,nextjs,tailwind,bootstrap&theme=light"></td>
-    <td><img src="https://skillicons.dev/icons?i=vs,git,figma&theme=light"></td>
+    <td><img src="https://skillicons.dev/icons?i=visualstudio,ps,git,figma&theme=light"></td>
 </tr>
 </table>
 
