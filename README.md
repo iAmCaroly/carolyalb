@@ -1,7 +1,17 @@
-# Hi👋, I'm Caroly!
-[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/iAm_Caroly212) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carol-albuquerque/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iAmCaroly)
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&fontColor=1D97611C"/>
+  
+  <img width="400" src="https://readme-typing-svg.herokuapp.com?font=Italianno&weight=600&size=30&duration=5000&color=674ea7&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Caroly;Front+End+Dev+👩‍💻;🌐+Let's+Connect!"/>
+
+  <div>
+    <a href="https://x.com/iAm_Caroly212" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-674ea7?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
+    </a>
+    <a href="https://github.com/iAmCaroly" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-674ea7?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
+    </a>
+  </div>
+</div>
 
 
 ## 🚀 About Me
@@ -13,6 +23,7 @@
 ✍️Sharing my journey on [X [Twitter]](https://twitter.com/iAm_Caroly212).
 
 <br/>
+
 ## :books: What I'm doing...
 
 - Responsive Web Design Certification @ [FreeCodeCamp](https://www.freecodecamp.org/)
