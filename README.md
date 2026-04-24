@@ -43,6 +43,7 @@
 </table>
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5&section=footer&reversal=true&colors=1D97611C,D45E1B"/></p>
+
 ## 📊Github Status
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iAmCaroly&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true&hide-stars)
 
