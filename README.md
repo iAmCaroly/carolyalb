@@ -11,16 +11,6 @@
 
 ✍️Sharing my journey on [X [Twitter]](https://twitter.com/iAm_Caroly212).
 
-  <div>
-    <a href="https://x.com/iAm_Caroly212" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
-    </a>
-    <a href="https://github.com/iAmCaroly" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
-    </a>
-  </div>
-</div>
-
 <br/>
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5&section=footer&reversal=true&colors=1D97611C,D45E1B"/></p>
