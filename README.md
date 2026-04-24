@@ -5,10 +5,10 @@
 
   <div>
     <a href="https://x.com/iAm_Caroly212" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-A78191FF?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
+      <img src="https://img.shields.io/badge/Twitter-A9A9A9?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
     </a>
     <a href="https://github.com/iAmCaroly" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-A78191FF?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
+      <img src="https://img.shields.io/badge/Portfolio-A9A9A9?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
     </a>
   </div>
 </div>
