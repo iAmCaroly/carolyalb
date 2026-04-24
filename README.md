@@ -42,14 +42,7 @@
 </tr>
 </table>
 
-## :books: Skills
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5&section=footer&reversal=true&colors=1D97611C,D45E1B"/></p>
 ## 📊Github Status
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iAmCaroly&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true&hide-stars)
 
