@@ -24,6 +24,8 @@
 
 <br/>
 
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5&section=footer&reversal=true&colors=1D97611C,D45E1B"/></p>
+
 ## :books: What I'm doing...
 
 - Responsive Web Design Certification @ [FreeCodeCamp](https://www.freecodecamp.org/)
