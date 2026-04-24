@@ -3,6 +3,8 @@
   
   <img width="400" src="https://readme-typing-svg.herokuapp.com?font=Italianno&weight=600&size=30&duration=5000&color=A78191FF&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Caroly;Front+End+Dev+👩‍💻;🌐+Let's+Connect!"/>
 </div>
+
+
 ## 🚀 About Me
 
 💻Aspiring Front-End Developer
